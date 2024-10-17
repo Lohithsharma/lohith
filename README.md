@@ -1,6 +1,7 @@
-project 1
-       I have made 5 turtle projects and a hirst dot photo project .
-       these are added into project1.zip file
+project 1:
+
+I have made 5 turtle projects and a hirst dot photo project .
+these are added into project1.zip file
 1.In this project I've made a square using a turtle
 ![Screenshot 2024-10-16 154144](https://github.com/user-attachments/assets/f967b2c8-7166-48c5-9bbb-9ec8feb7988b)
 2.In this project I've made a dotted line by using turtle
