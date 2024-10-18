@@ -15,3 +15,14 @@ these are added into project1.zip file
 Finally I've made my today main project hirst dot diagram by using turtle
 ![Screenshot 2024-10-17 160735](https://github.com/user-attachments/assets/2bb14d11-82f4-4d98-b9fa-a512c7264ce0)
 
+project 2:
+
+In this I've made a two project based on turtle.
+these are added into project 2.zip file
+
+1.In this project I've created a turtle that takes input from user by using keyboard keys like w for forward and s for backward etc...
+![Screenshot 2024-10-17 172237](https://github.com/user-attachments/assets/d53308ee-7232-48c9-a880-b17f098ec7de)
+
+2.In this project I've made a race of turtles.
+Firstly we have to select a color turtle from some turtles,then the race begins.if the turtle selected by you reaches the end at first then it will say that you have won otherwise you have lost.
+![Screenshot 2024-10-18 185114](https://github.com/user-attachments/assets/f9b9b43f-2ebb-4ba4-af29-22972fb84db1)
